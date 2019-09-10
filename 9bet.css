@@ -10,7 +10,7 @@
 }
 
 .clearfix {
-	width: 960px;
+	width: 90%;
 	margin: 50px auto;
 	text-align: center;
 }
@@ -70,5 +70,30 @@
 		display: list-item;
 		list-style-type: none;
 		text-transform: uppercase;
+		margin: 40px auto;
+		
 	}
+	.step-box {
+		width: 100%;
+		margin: 10px 0;
+		
+	}
+	.step-img1 {
+		width: 100%;
+	}
+	.step-img2 {
+		width: 100%;		
+	}
+	.step-img3 {
+		width: 100%;
+	}
+	.dtep-num {
+		position: absolute;
+		left: 9%;
+		background-color: orange;
+		color: #fff;
+		padding: 0;
+	}
+
+
 }
